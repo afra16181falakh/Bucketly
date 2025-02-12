@@ -1,5 +1,5 @@
-## Overview
-Welcome to **Bucketly**! 🎉
+
+## Welcome to **Bucketly**! 
 
 Bucketly is a **full-stack web application** designed to help users create and manage their bucket lists efficiently. With an intuitive interface and powerful features, Bucketly enables users to track their life goals, dreams, and adventures, ensuring they stay organized and motivated to achieve them.
 
